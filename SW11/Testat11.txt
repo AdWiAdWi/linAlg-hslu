@@ -1,0 +1,8 @@
+Linalg Testat 11 
+
+Pi in Form eines Kettenbruchs darstellen 
+
+Pi (n = 3) = 3.1452380952
+Pi (n = 5) = 3.1427128427
+Pi (n = 8) = 3.1412548236
+Pi (n = 13) = 3.1416831892
